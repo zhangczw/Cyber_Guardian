@@ -1,0 +1,17 @@
+{
+    "11": {
+        "password": "$2b$12$11gsse4TG0tWFGBMdScpPOUtpCzZ3ZZ2fWmMqQICOPJwYaDmV3PDm",
+        "created": "2024-05-06",
+        "role": "user"
+    },
+    "zhangczw": {
+        "password": "$2b$12$ix1G8iygtz7Ircj.CvzmQeJkass4oEXF1TdCu1zRnZECMjGnbc3f2",
+        "created": "2024-05-07",
+        "role": "user"
+    },
+    "": {
+        "password": "$2b$12$E9T04qkJLC1oRqAx1aHY6ufDaPms/tuc6k4Xp17sCxEOLitIpur82",
+        "created": "2024-05-07",
+        "role": "user"
+    }
+}

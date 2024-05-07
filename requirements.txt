@@ -1,0 +1,6 @@
+keyring==24.0.0
+PyNaCl==1.5.0
+bcrypt==3.2.2
+cffi==1.15.1
+pycparser==2.21
+tkinterweb==3.9.0    # Or any other tkinter-related package required by your project
